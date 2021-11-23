@@ -5,15 +5,15 @@
 </head>
 <style>
 	div {
-		width: 40%;
-		height: 100%;
+		width: 50%;
+		height: 80%;
 		text-align: center;
 		position: relative;
 		margin-right: 30%;
 		margin-left: 30%;
 		vertical-align: middle;
-		font-size: 30px;
-		padding-top: 25px;
+		font-size: 35px;
+		padding-top: 30px;
 		padding-bottom: 50px;
 		box-shadow: 0 10px 20px rgba(09,41,98,0.19);
 		border-radius: 15px;
